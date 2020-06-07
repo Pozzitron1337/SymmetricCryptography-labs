@@ -1,0 +1,414 @@
+Key length = 1:
+average: 0.03245496672548515
+Key length = 2:
+average: 0.03245561760349361
+Key length = 3:
+average: 0.033896205532041306
+Key length = 4:
+average: 0.032429335877703316
+Key length = 5:
+average: 0.03246018755054984
+Key length = 6:
+average: 0.03382381890930997
+Key length = 7:
+average: 0.040513431069383474
+Key length = 8:
+average: 0.032444795182563914
+Key length = 9:
+average: 0.03373433200373389
+Key length = 10:
+average: 0.03251838771690495
+Key length = 11:
+average: 0.03237662248203208
+Key length = 12:
+average: 0.03377049055801163
+Key length = 13:
+average: 0.03227251486604992
+Key length = 14:
+average: 0.040512685213937895
+Key length = 15:
+average: 0.0339164008897365
+Key length = 16:
+average: 0.032299574855754624
+Key length = 17:
+average: 0.0323775906228407
+Key length = 18:
+average: 0.03359358035941385
+Key length = 19:
+average: 0.032095759175432816
+Key length = 20:
+average: 0.03245642457551121
+Key length = 21:
+average: 0.05604181594429104
+Key length = 22:
+average: 0.034738188903573664
+Key length = 23:
+average: 0.03218053750059905
+Key length = 24:
+average: 0.03384755132636488
+Key length = 25:
+average: 0.03217705039985122
+Key length = 26:
+average: 0.03221817816229415
+Key length = 27:
+average: 0.033791736904189615
+Key length = 28:
+average: 0.04027429900720676
+Key length = 29:
+average: 0.03252787554928767
+Key length = 30:
+average: 0.03394573162169109
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 16:
+average: 0.037186524151023415
+Key length = 17:
+average: 0.03368867351961501
+Key length = 18:
+average: 0.03608986458957075
+Key length = 19:
+average: 0.0335364228338296
+Key length = 20:
+average: 0.03938936497846169
+Key length = 21:
+average: 0.03619388229715766
+Key length = 22:
+average: 0.03359466427790614
+Key length = 23:
+average: 0.03408654267171319
+Key length = 24:
+average: 0.03608759248034323
+Key length = 25:
+average: 0.03901716563504428
+Key length = 26:
+average: 0.03346893581656819
+Key length = 27:
+average: 0.03564037880738555
+Key length = 28:
+average: 0.033727646862663656
+Key length = 29:
+average: 0.03404426010285956
+Key length = 30:
+average: 0.05600313156972977
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 16:
+average: 0.037186524151023415
+Key length = 17:
+average: 0.03368867351961501
+Key length = 18:
+average: 0.03608986458957075
+Key length = 19:
+average: 0.0335364228338296
+Key length = 20:
+average: 0.03938936497846169
+Key length = 21:
+average: 0.03619388229715766
+Key length = 22:
+average: 0.03359466427790614
+Key length = 23:
+average: 0.03408654267171319
+Key length = 24:
+average: 0.03608759248034323
+Key length = 25:
+average: 0.03901716563504428
+Key length = 26:
+average: 0.03346893581656819
+Key length = 27:
+average: 0.03564037880738555
+Key length = 28:
+average: 0.033727646862663656
+Key length = 29:
+average: 0.03404426010285956
+Key length = 30:
+average: 0.05600313156972977
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 16:
+average: 0.037186524151023415
+Key length = 17:
+average: 0.03368867351961501
+Key length = 18:
+average: 0.03608986458957075
+Key length = 19:
+average: 0.0335364228338296
+Key length = 20:
+average: 0.03938936497846169
+Key length = 21:
+average: 0.03619388229715766
+Key length = 22:
+average: 0.03359466427790614
+Key length = 23:
+average: 0.03408654267171319
+Key length = 24:
+average: 0.03608759248034323
+Key length = 25:
+average: 0.03901716563504428
+Key length = 26:
+average: 0.03346893581656819
+Key length = 27:
+average: 0.03564037880738555
+Key length = 28:
+average: 0.033727646862663656
+Key length = 29:
+average: 0.03404426010285956
+Key length = 30:
+average: 0.05600313156972977
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 1:
+average: 0.03245496672548515
+Key length = 2:
+average: 0.03245561760349361
+Key length = 3:
+average: 0.033896205532041306
+Key length = 4:
+average: 0.032429335877703316
+Key length = 5:
+average: 0.03246018755054984
+Key length = 6:
+average: 0.03382381890930997
+Key length = 7:
+average: 0.040513431069383474
+Key length = 8:
+average: 0.032444795182563914
+Key length = 9:
+average: 0.03373433200373389
+Key length = 10:
+average: 0.03251838771690495
+Key length = 11:
+average: 0.03237662248203208
+Key length = 12:
+average: 0.03377049055801163
+Key length = 13:
+average: 0.03227251486604992
+Key length = 14:
+average: 0.040512685213937895
+Key length = 15:
+average: 0.0339164008897365
+Key length = 16:
+average: 0.032299574855754624
+Key length = 17:
+average: 0.0323775906228407
+Key length = 18:
+average: 0.03359358035941385
+Key length = 19:
+average: 0.032095759175432816
+Key length = 20:
+average: 0.03245642457551121
+Key length = 21:
+average: 0.05604181594429104
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 1:
+average: 0.03381430849110405
+Key length = 2:
+average: 0.03385388813744475
+Key length = 3:
+average: 0.03615187096897406
+Key length = 4:
+average: 0.03374293361807624
+Key length = 5:
+average: 0.03952084806368013
+Key length = 6:
+average: 0.036125055880893396
+Key length = 7:
+average: 0.033821792020889335
+Key length = 8:
+average: 0.03374094496535137
+Key length = 9:
+average: 0.03608280586815858
+Key length = 10:
+average: 0.03952252784858045
+Key length = 11:
+average: 0.033676545852495285
+Key length = 12:
+average: 0.03604485666071514
+Key length = 13:
+average: 0.03357519915761071
+Key length = 14:
+average: 0.03392455396612264
+Key length = 15:
+average: 0.05605177331202787
+Key length = 1:
+average: 0.03245496672548515
+Key length = 2:
+average: 0.03245561760349361
+Key length = 3:
+average: 0.033896205532041306
+Key length = 4:
+average: 0.032429335877703316
+Key length = 5:
+average: 0.03246018755054984
+Key length = 6:
+average: 0.03382381890930997
+Key length = 7:
+average: 0.040513431069383474
+Key length = 8:
+average: 0.032444795182563914
+Key length = 9:
+average: 0.03373433200373389
+Key length = 10:
+average: 0.03251838771690495
+Key length = 11:
+average: 0.03237662248203208
+Key length = 12:
+average: 0.03377049055801163
+Key length = 13:
+average: 0.03227251486604992
+Key length = 14:
+average: 0.040512685213937895
+Key length = 15:
+average: 0.0339164008897365
+Key length = 16:
+average: 0.032299574855754624
+Key length = 17:
+average: 0.0323775906228407
+Key length = 18:
+average: 0.03359358035941385
+Key length = 19:
+average: 0.032095759175432816
+Key length = 20:
+average: 0.03245642457551121
+Key length = 21:
+average: 0.05604181594429104
